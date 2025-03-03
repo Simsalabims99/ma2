@@ -5,7 +5,7 @@
 ### Group members
 | Student name | Student ID |
 | --- | --- |
-| #NAME# | #ID# |
+| Simon Lindholm Pedersen | s154632 |
 | #NAME# | #ID# |
 | #NAME# | #ID# |
 
